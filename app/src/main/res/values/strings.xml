@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rhymantic</string>
+    <string name="app_logo">App Logo</string>
+    <string name="word_input_label">Enter a word</string>
+    <string name="word_input_placeholder">Word</string>
+    <string name="word_submit">Wyszukaj</string>
+    <string name="fetch_result">Found %d rhymes for word \'%s\'</string>
+</resources>
