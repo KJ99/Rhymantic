@@ -1,6 +1,8 @@
 # Rhymantic
 Projekt zaliczeniowy z przedmiotu Przetwarzanie danych w chmurze obliczeniowej
-
+## Autorzy
+1. Anna Akifjewa, grupa S22-32
+2. Konrad Jezierski, grupa S22-32
 ## Opis projektu
 Aplikacja wyszukująca rymy dla podanego słowa za pomocą zewnętrznego API
 
